@@ -1,0 +1,7 @@
+# AppCronometro
+{
+  "dependencies": {
+    "react-native-paper": "2.16.0",
+    "@expo/vector-icons": "^12.0.0"
+  }
+}
